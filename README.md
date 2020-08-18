@@ -1,3 +1,16 @@
+## This is ReactJS Practice Code
+
+Project / Code from Youtube Tutorial [ReactJS Crash Course](https://youtu.be/sBws8MSXN7A) by [Traversy Media](https://www.youtube.com/c/TraversyMedia), and completely coded by **Me**.
+
+---
+---
+
+<br /><br />
+
+---
+### Ignore all the data from now, it's auto generated...
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
